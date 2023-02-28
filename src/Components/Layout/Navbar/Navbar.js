@@ -19,7 +19,7 @@ function Navbar() {
           transition={{ duration: 0.5 }}
           style={{ color: "#fff", fontWeight: "bold" }}
         >
-          My
+          My 
         </motion.span>{" "}
         <motion.span
           initial={{ opacity: 0, y: -10 }}
