@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import LatestMovies from './LatestMovie/latestMovies';
 import Filter from "./Filter/filter";
 import { motion, AnimatePresence } from "framer-motion";
-import './filterAnimation.css'
+import './animation.css'
 
 function FilterAnimation() {
   const [latest, setLatest] = useState([]);
