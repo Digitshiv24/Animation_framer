@@ -1,6 +1,6 @@
 import React from "react";
-import Header from "../Layout/Navbar/Navbar";
-import Footer from "../Layout/Footer/Footer";
+import Header from "./Navbar/Navbar";
+import Footer from "./Footer/Footer";
 // import FilterAnimation from '../FilterAnimation/FilterAnimation'
 
 const Layout = ({ children }) => {
