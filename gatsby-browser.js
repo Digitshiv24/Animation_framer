@@ -7,7 +7,7 @@
 // You can delete this file if you're not using it
 
 import React from "react";
-import Layout from './src/Components/Layout/Layout'
+import Layout from './src/Components/Layout/Layout.js'
 
 export const wrapPageElement = ({ element }) => {
   return (
